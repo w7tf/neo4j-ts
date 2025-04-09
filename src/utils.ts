@@ -1,6 +1,5 @@
 import { Integer } from 'neo4j-driver';
 
-
 /**
  * Utility to safely convert Integer to number
  * @param value - Neo4j Integer or number
